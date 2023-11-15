@@ -3,7 +3,7 @@
 add_two_numbers <- function(a, b){
 #Now change something
   y <- a + b
-  d <- b + a
+  #Second text comment
   
   plot(y)
   return(y)
